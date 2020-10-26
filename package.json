@@ -1,0 +1,22 @@
+{
+  "name": "weather-project",
+  "version": "1.0.0",
+  "description": "a node weather app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBastos800/node-weather-project.git"
+  },
+  "author": "Sonia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SBastos800/node-weather-project/issues"
+  },
+  "homepage": "https://github.com/SBastos800/node-weather-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
